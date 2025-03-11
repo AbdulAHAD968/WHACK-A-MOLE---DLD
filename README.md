@@ -54,7 +54,13 @@ The circuit design integrates various digital logic components to create the **c
 - **555 timer and flip-flops control mole activation and scoring logic**
 - **A display driver shows the player's score**
 
-> **Diagram**: *(Insert Circuit Schematic Here)*
+> **Diagram**:
+<div>
+   <img src="https://github.com/AbdulAHAD968/WHACK-A-MOLE---DLD/blob/main/assets/0.PNG"/>
+   <img src="https://github.com/AbdulAHAD968/WHACK-A-MOLE---DLD/blob/main/assets/1.PNG"/>
+   <img src="https://github.com/AbdulAHAD968/WHACK-A-MOLE---DLD/blob/main/assets/2.PNG"/>
+   <img src="https://github.com/AbdulAHAD968/WHACK-A-MOLE---DLD/blob/main/assets/3.PNG"/>
+</div>
 
 ---
 
