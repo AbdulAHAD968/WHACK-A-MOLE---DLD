@@ -55,7 +55,7 @@ The circuit design integrates various digital logic components to create the **c
 - **A display driver shows the player's score**
 
 > **Diagram**:
-<div align=center>
+<div align=center width="100%">
    <img src="https://github.com/AbdulAHAD968/WHACK-A-MOLE---DLD/blob/main/assets/0.PNG"/>
    <img src="https://github.com/AbdulAHAD968/WHACK-A-MOLE---DLD/blob/main/assets/1.PNG"/>
    <img src="https://github.com/AbdulAHAD968/WHACK-A-MOLE---DLD/blob/main/assets/2.PNG"/>
