@@ -76,7 +76,7 @@ The implementation follows these steps:
 
 ---
 
-## 🛠Testing and Debugging
+## Testing and Debugging
 Rigorous testing was conducted to ensure:
 - [x] LEDs flashed randomly as expected.
 - [x] Scoring system correctly registered hits and misses.
